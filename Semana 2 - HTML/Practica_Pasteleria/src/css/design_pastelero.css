@@ -1,0 +1,37 @@
+.main{
+    display: grid;
+    grid-row: 1fr 1fr;
+    row-gap: 20px;
+    justify-content: center;
+
+}
+
+.Tabla{
+    display: flex;
+    justify-content: center;
+}
+
+.Tablas{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.Tabla-Ped{
+    border: 1px solid #E74BD7;
+}
+
+.Tabla-I-Sabor{
+    border: 1px solid #E74BD7;
+}
+
+.Tabla-D-Adorno{
+    border: 1px solid #E74BD7;
+}
+
+th{
+    padding: 10px 10px;
+}
+
+td{
+    padding: 10px 10px;
+}

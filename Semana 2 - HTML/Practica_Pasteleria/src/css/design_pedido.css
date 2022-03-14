@@ -1,0 +1,15 @@
+
+.content{
+    width: max-content;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    display: grid;
+    row-gap: 20px;
+}
+
+.Eleccion{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: left;
+}
